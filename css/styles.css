@@ -35,3 +35,10 @@
     border-bottom: 1px ridge;
     min-height: 150px;
 }
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+
